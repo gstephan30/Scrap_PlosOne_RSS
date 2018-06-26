@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529939615200.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2325907803",
+    "id" : "D01DE8FA",
+    "lastKnownWriteTime" : 1529996578,
+    "last_content_update" : 1529996578530,
+    "path" : "U:/TxDashboard/Feeds/plosone.R",
+    "project_path" : "plosone.R",
+    "properties" : {
+        "cursorPosition" : "49,17",
+        "scrollLine" : "20"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
